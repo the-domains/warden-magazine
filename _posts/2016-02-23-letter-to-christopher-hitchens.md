@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T20:49:27.629Z'
-dateModified: '2016-02-23T20:48:16.727Z'
+datePublished: '2016-02-23T20:49:50.809Z'
+dateModified: '2016-02-23T20:49:34.046Z'
 title: Letter to Christopher Hitchens
 author: []
 sourcePath: _posts/2016-02-23-letter-to-christopher-hitchens.md
