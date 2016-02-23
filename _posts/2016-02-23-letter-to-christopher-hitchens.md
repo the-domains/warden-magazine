@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T20:25:23.525Z'
-dateModified: '2016-02-23T20:11:46.578Z'
+datePublished: '2016-02-23T20:49:27.629Z'
+dateModified: '2016-02-23T20:48:16.727Z'
 title: Letter to Christopher Hitchens
 author: []
+sourcePath: _posts/2016-02-23-letter-to-christopher-hitchens.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-letter-to-christopher-hitchens.md
-published: true
 url: letter-to-christopher-hitchens/index.html
 _type: Article
 
