@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-23T20:49:50.809Z'
-dateModified: '2016-02-23T20:49:34.046Z'
+description: This is a letter written to Christopher Hitchens postmortem.
+datePublished: '2016-02-23T21:15:17.248Z'
+dateModified: '2016-02-23T21:13:27.543Z'
 title: Letter to Christopher Hitchens
 author: []
 sourcePath: _posts/2016-02-23-letter-to-christopher-hitchens.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: letter-to-christopher-hitchens/index.html
-_type: Article
+_type: Blurb
 
 ---
 Dear Christopher,
