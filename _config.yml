@@ -2,6 +2,7 @@ name: Warden Magazine
 favicon: null
 layout_spectrum: 0.2853
 typography_spectrum: 0.49616534332744777
+title: Warden Magazine
 cta:
   domain: null
   bucket: null
