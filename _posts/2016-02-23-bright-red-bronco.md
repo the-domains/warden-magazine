@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-23T21:12:12.720Z'
-dateModified: '2016-02-23T21:11:29.933Z'
+description: Here is a story about a boy and his girl.
+datePublished: '2016-02-23T23:54:46.320Z'
+dateModified: '2016-02-23T21:13:46.237Z'
+title: Bright Red Bronco
+author: []
+sourcePath: _posts/2016-02-23-bright-red-bronco.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Bright Red Bronco
-author: []
-sourcePath: _posts/2016-02-23-bright-red-bronco.md
-published: true
 url: bright-red-bronco/index.html
 _type: Article
 
