@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Warden Magazine]]></title>
+        <description><![CDATA[Warden Magazine]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 18:44:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leaves]]></title>
+            <description><![CDATA[<article><h1>Leaves</h1><p>Leaves laze across the sidewalk, cascaded by the breeze—a motherly breeze. A man behind a pane of glass brings a cup to his mouth. He shuts his eyes, then keeps them shut, inhaling the scent of dirty, rich coffee. The smell is so physical it rips through his nose and bites the back of his tongue. It tastes bitter, dense, makes him clench. He opens his eyes, looks up, sees the leaves pirouette as the wind tosses them over. The girl at the next table looks at him, he can feel it, her gaze. His exhale quivers. He rubs his face with large hands—overly large hands, hands that make the cup look like a Grande when it’s really a Venti, hands so big he knows they’re why the girl is looking at him, why everyone looks at him, his one great flaw—gets up and leaves.</p></article>]]></description>
+            <link>undefinedleaves/index.html</link>
+            <guid isPermaLink="false">7defd0ec-e19d-4f16-91fb-dd298b4cfcbc</guid>
+            <pubDate>Tue, 23 Feb 2016 18:44:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
