@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: This is a letter written to Christopher Hitchens postmortem.
-datePublished: '2016-02-23T21:15:17.248Z'
-dateModified: '2016-02-23T21:13:27.543Z'
+datePublished: '2016-02-23T23:50:09.530Z'
+dateModified: '2016-02-23T23:50:08.904Z'
 title: Letter to Christopher Hitchens
 author: []
 sourcePath: _posts/2016-02-23-letter-to-christopher-hitchens.md
@@ -22,6 +21,8 @@ publisher:
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/405ed2d4-03d7-4bf5-91fd-729b7c1260ef.jpg)
+
 Dear Christopher,
 
 My forehead tightens writing this to you. I must make it personal. Many and various are the words you've written and said about God, and, while you might find this irritating, I have prayed to him about you. Now, I know what you think of prayer---I've read your books, your essays, your letters, especially _Mortality_.
