@@ -1,7 +1,7 @@
 name: Warden Magazine
 favicon: null
 layout_spectrum: 0.76127
-typography_spectrum: 0.85366
+typography_spectrum: 0.85081
 title: Warden Magazine
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#9ba4ab'
     - '#bec7d1'
   brandStrength: 1
-  lightness: 0.4375
+  lightness: 0.6875
   saturation: 0.0625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
