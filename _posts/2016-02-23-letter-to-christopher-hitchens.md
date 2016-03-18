@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: This is a letter written to Christopher Hitchens postmortem.
-datePublished: '2016-02-25T14:56:21.326Z'
-dateModified: '2016-02-25T14:55:13.992Z'
+description: 'Dear Christopher,'
+datePublished: '2016-03-18T13:39:23.930Z'
+dateModified: '2016-03-18T13:39:23.380Z'
 title: Letter to Christopher Hitchens
 author: []
 sourcePath: _posts/2016-02-23-letter-to-christopher-hitchens.md
